@@ -15,15 +15,21 @@ youtube-dl [url]
 ## Table of contents:
 
 **EMT Videos** (basic first aid):
+
 	path: `./emt_videos`
+
 	download script: `./emt_videos/download.sh`
 
 **Basic Survival** (outdoors):
+
     path: `./basic_survival`
+
     download script: `./basic_survival/download.sh`
 
 **Electrical Circuts** (electrical circuts):
+
     path: `./electrical_circuts`
+
     download script: `./electrical_circuts/download.sh`
 
 # Contributing:
