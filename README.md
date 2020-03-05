@@ -20,4 +20,4 @@ youtube-dl [url]
 
 # Contributing:
 
-**Add to this file if you live on this planet.**
+**Add to this file/repo if you live on this planet.**
