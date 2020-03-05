@@ -18,6 +18,14 @@ youtube-dl [url]
 	path: `./emt_videos`
 	download script: `./emt_videos/download.sh`
 
+**Basic Survival** (outdoors):
+    path: `./basic_survival`
+    download script: `./basic_survival/download.sh`
+
+**Electrical Circuts** (electrical circuts):
+    path: `./electrical_circuts`
+    download script: `./electrical_circuts/download.sh`
+
 # Contributing:
 
 **Add to this file/repo if you live on this planet.**
